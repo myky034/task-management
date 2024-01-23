@@ -1,0 +1,6 @@
+{
+    "prettier.bracketSameLine": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.withNodeModules": true,
+    "prettier.vueIndentScriptAndStyle": true
+}
